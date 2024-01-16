@@ -1,28 +1,32 @@
 #  <img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/4b1c2e01-f24b-4f39-899e-c356d468e386" width="300">
 
-## Simple Todo List App Refactored: Documentation
+# Simple Todo List App Refactored: Documentation
 
-## Table of Contents
-
-1. [Introduction](#1-introduction)
-2. [Project Overview](#2-project-overview)
-3. [Getting Started](#3-getting-started)
-4. [Code Structure](#4-code-structure)
-5. [Dependencies](#5-dependencies)
-6. [Code Refactoring](#6-code-refactoring)
-7. [Deployment](#7-deployment)
-8. [Usage](#8-usage)
-9. [License](#9-license)
-
-## 1. Introduction
+## Introduction
 
 Welcome to the documentation for the TO-DOIT App, a simple and refactored project designed to manage your tasks efficiently. This document provides an overview of the project, its code structure, refactoring details, clean code practices, design patterns, deployment information, and usage instructions.
 
-## 2. Project Overview
+## Project Context
+
+This project is developed by me, for the Object Oriented Concepts II Lab (SWE 4202) during the 3rd semester at the Islamic University of Technology. It represents one of the very few projects I undertook in the beginning stages of my academic journey. The documentation and refactoring were carried out solely by me, demonstrating my individual efforts and skills in software development.
+
+## Table of Contents
+
+
+1. [Project Overview](#1-project-overview)
+2. [Getting Started](#2-getting-started)
+3. [Code Structure](#3-code-structure)
+4. [Dependencies](#4-dependencies)
+5. [Code Refactoring](#5-code-refactoring)
+6. [Deployment](#6-deployment)
+7. [Usage](#7-usage)
+8. [License](#8-license)
+
+## 1. Project Overview
 
 The TO-DOIT App is a web-based application developed to help users manage their tasks by providing a user-friendly interface for adding, editing, and deleting tasks. The app also supports task filtering based on status (All, Pending, Completed) and incorporates a theme switcher for a personalized user experience.
 
-## 3. Getting Started
+## 2. Getting Started
 
 To get started with the TO-DOIT App, follow these steps:
 
@@ -52,7 +56,7 @@ Make sure you have the following installed:
    Open the `index.html` file in your preferred web browser.
 
 
-## 4. Code Structure
+## 3. Code Structure
 
 The project follows a modular and organized structure to enhance readability, maintainability, and scalability. Key components include:
 
@@ -61,14 +65,14 @@ The project follows a modular and organized structure to enhance readability, ma
 - **JavaScript (`main.js`):** Logic for handling user interactions, managing tasks, and implementing theme switching.
 - **Fonts (`Poppins`):** Imported from Google Fonts for consistent typography.
 
-## 5. Dependencies
+## 4. Dependencies
 
 - **Tailwind CSS:** Used for styling the components. It's linked through CDN in the `index.html` file.
 - **Daisy UI:** A CSS library for UI components, linked through CDN.
 - **Boxicons:** Icons library, linked through CDN.
 - **Google Fonts (Poppins):** Font used for the app, linked in the `style.css` file.
 
-## 6. Code Refactoring
+## 5. Code Refactoring
 
 ### Code Smells Addressed:
 
@@ -148,11 +152,11 @@ The project follows a modular and organized structure to enhance readability, ma
    - Implements the Singleton pattern to ensure a single instance responsible for theme switching.
    - Manages the application's theme by updating the HTML's data-theme attribute.
 
-## 7. Deployment
+## 6. Deployment
 
 The TO-DOIT App is deployed and accessible online. You can use the following link to access the application: [TO-DOIT](https://takitajwar17.github.io/Simple-Todo-List-Refactored/)
 
-## 8. Usage
+## 7. Usage
 
 1. **Adding a Task:**
    - Enter the task in the input field.
@@ -181,6 +185,6 @@ The TO-DOIT App is deployed and accessible online. You can use the following lin
    - Select a theme from the available options.
 
 
-## 9. License
+## 8. License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@abdellatif-laghjaj](https://github.com/abdellatif-laghjaj) and refactored by [@takitajwar17](https://github.com/takitajwar17). 
