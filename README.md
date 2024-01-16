@@ -8,7 +8,7 @@ Welcome to the documentation for the TO-DOIT App, a simple and refactored projec
 
 ## Project Context
 
-This project is developed by me, for the Object Oriented Concepts II Lab (SWE 4202) during the 3rd semester at the Islamic University of Technology. It represents one of the very few projects I undertook in the beginning stages of my academic journey. The documentation and refactoring were carried out solely by me, demonstrating my individual efforts and skills in software development.
+This project is developed by me [@takitajwar17](https://github.com/takitajwar17), for the Object Oriented Concepts II Lab (SWE 4202) during the 3rd semester at the Islamic University of Technology. It represents one of the very few projects I undertook in the beginning stages of my academic journey. The documentation and refactoring were carried out solely by me, demonstrating my individual efforts and skills in software development.
 
 ## Table of Contents
 
